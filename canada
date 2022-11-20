@@ -1,0 +1,37 @@
+Assignment work for Diwali vacation -
+1. How to check memory stats and CPU stats as a Linux Admin?
+2. Which command is used to check the number of files, disk space, and each user’s defined quota?
+3. What daemon is used for scheduling commands?
+
+4. Given a text file. Find the first and last five lines of the text using shell commands?
+
+5. How would you continuously monitor the log file of a service that is running?
+
+6. Suppose you are working on one (.java) project and suddenly some customer escalation occurs so at that time you have to keep your current work aside and you are not able to throw it away. Now you have to keep that work temporarily in temporary storage and later on commit it. 
+How will you resolve this issue in GIT?
+
+7.  Questions on GREP commands -
+Consider the below file as an input. 
+ 
+$cat > geekfile.txt
+ 
+Unix is great OS. 
+Unix is open source. 
+Unix is free os.
+Learn operating system.
+Unix linux which one you choose.
+Unix is easy to learn. Unix is a multiuser OS.
+This is a powerful.
+
+I.	Show line number while displaying the output using grep -n 
+II.	Matching the lines that start with a string “unix”
+III.	Matching the lines that end with a string “os”
+IV.	Search recursively for a pattern in the directory
+V.	Write a command to print the lines which end with the word “os”?
+VI.	Write a command to print the lines that starts with the word “unix”?
+VII.	Write a command to print the file names in a directory that does not contain the word “unix”?
+VIII.	Now we want to search all lines in file geekfile.txt which contains the word UNIX but at the same time doesn't contain the word Linux.
+
+
+ Note – Please try it at individual level.
+
